@@ -7,6 +7,6 @@ categories:
 
 I'm currently working on migrating my blog posts to this site. It's a little bare right now but I have big plans for it!
 
-Check out the [my wordpress blog][jekyll] for more now.
+Check out the [my wordpress blog][jekyll] for now.
 
 [jekyll]:    http://shawnleberknight.wordpress.com/
