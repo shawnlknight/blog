@@ -6,6 +6,7 @@ baseurl: "/blog"
 url: "http://shawnleberknight.com/blog"
 twitter_username: shawnlknight
 github_username:  shawnlknight
+home: "http://shawnleberknight.com"
 
 # Build settings
 markdown: kramdown
