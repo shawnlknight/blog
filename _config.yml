@@ -1,0 +1,12 @@
+# Site settings
+title: Shawn's Blog
+email: shawn.leberknight@gmail.com
+description: "My thoughts about life."
+baseurl: ""
+url: "http://shawnleberknight.com"
+twitter_username: shawnlknight
+github_username:  shawnlknight
+
+# Build settings
+markdown: kramdown
+permalink: pretty
