@@ -356,20 +356,18 @@ a:visited { color: #935621; }
   .wrap { padding: 0 12px; }
 
   .site-nav {
-    position: fixed;
+    margin-top: 8px;
     z-index: 10;
     top: 14px; right: 8px;
     background-color: #a96426;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-    border-radius: 5px;
-    border: 1px solid #e8e8e8;
   }
 
   .site-nav .menu-icon {
     display: block;
     font-size: 24px;
-    color: #505050;
+    color: #111;
     float: left;
     width: 36px;
     text-align: center;
