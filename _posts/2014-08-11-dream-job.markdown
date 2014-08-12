@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Dream Job"
+date:   2014-08-11 
+categories: 
+---
+
+So, it's been a while since I've written a blog post. There has been a lot going on in the past month.  
+
+Since the [Giant Conference][giant], I built my final project for [The Iron Yard][iron], graduated, and started a great job at an amazing company.
+
+[giant]: http://www.giantconf.com/
+[iron]: http://www.theironyard.com
+
+####Final Project
+
+To back up a bit, I'll talk about my final project. I decided to take one of my existing applications and make it better with more functionality. It was a very grueling two weeks and honestly, there was a few times I thought I wouldn't finish it. But as fate would have it, I finished [*My Box*][box]. It allows users to track their fitness progress, generates random workouts, and has a custom google map feature to find CrossFit gyms. 
+
+[box]: https://shawn-final.firebaseapp.com/#/
+
+On demo day at The Iron Yard, I was fairly nervous presenting. Up to this point, we had only presented our projects in front of the instructor and the other classmates. This time we had to present in front of potential employers and other members of the Charleston tech community. It was awesome to see what my classmates built and to see the tech communities reactions when they saw what we learned in just three months.
+
+####Graduation
+
+Graduation was definitely bittersweet. It was nice to be done with the 70 hour weeks but after three months, you feel like one big family. We had endured so much together and I'll never forget what I gained from my experience there. It was more than just a code camp. It was the road less traveled that turned my life upside down and gave me hope for a better future.
+
+####Dream Job
+
+I really do feel like God led me to pursue software engineering but to say I didn't doubt I would find a job would be a lie. However, a very respected company pursued me to interview for a position at their company. The interview process was so much better than anything I've ever experienced. This company truly cares about character first and skills second. They wanted to know who I was, my dreams, and how I could add value to their already awesome culture. I wish more places would follow this model.
+  
+5 days after I graduted, this company offered me a position and now I am a UI/UX Engineer at [SPARC][sparc].  Imagine a place where you actually smile driving into work and you enjoy who you work with...crazy isn't it? My first day was an introduction in how to shoot nerf gun darts at my teammates! 
+
+I'm a month in now and I still can't believe how blessed I am. This is more than I could have ever asked or imagined.
+
+[sparc]: http://www.sparcedge.com/

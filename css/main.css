@@ -53,6 +53,7 @@ a:visited { color: #935621; }
   display: block;
   color: #111;
   font-size: 26px;
+  font-weight: bold;
   letter-spacing: -1px;
   float: right;
   line-height: 56px;
@@ -374,7 +375,10 @@ a:visited { color: #935621; }
     line-height: 36px;
   }
 
-  .site-nav .menu-icon svg { width: 18px; height: 16px; }
+  .site-nav .menu-icon svg { 
+    width: 20px; 
+    height: 18px; 
+  }
 
   .site-nav .trigger {
     clear: both;
@@ -390,6 +394,7 @@ a:visited { color: #935621; }
     line-height: 1.25;
     padding: 5px 10px;
     margin: 0;
+    font-weight: bold;
   }
 
   .post-header h1 { font-size: 36px; }
