@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Learning to Fish"
+date:   2014-09-09 
+categories: 
+---
+
+
+What are your thoughts on asking for help?
+
+Many people, especially men, hate to ask for help. Think about the classic example of a road trip and the father getting everyone lost because he is too stubborn to stop and ask for directions. Or have you ever put something together without reading the directions only to find left over nuts and bolts, and the object doesn’t really work like it is supposed to?
+
+You also have some people who never try to figure things out for themselves and want others to do the work for them. 
+
+Neither one of these extremes is good. We need to be able to ask for help but not to the point of never learning for ourselves. The analogy of teaching a man to fish so he may be self sufficient comes to mind. 
+
+In software development this is especially true. In the beginning of learning to code, I tried to do it all myself. I read documentation and did online training, which was crucial in my learning process but I only got so far. It makes no sense to waste a whole day being stuck on something when you could ask a coworker or classmate for a little help. They benefit too because one of the best ways to get more proficient at something is to teach others.
+
+The key is to actually learn from these experiences. Write down what you have learned so next time you have the answer. You may even get the opportunity to teach someone else your newfound knowledge.
+
+The bottom line is, don't expect others to do your work but don’t hinder progress by being too proud to ask for help.
