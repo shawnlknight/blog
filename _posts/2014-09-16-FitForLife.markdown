@@ -21,6 +21,6 @@ We also make excuses about not having enough time. Which isn’t true in the lea
 
 For me, eating right and staying fit is more than just about me. I want to be healthy for my family. I don’t want them to have to take care of me because of a disease I gained from unhealthy living. I want to be strong enough to carry my loved ones out of a burning building if I had to. I want to be fast enough to rescue my child if they run out into a busy road. I want to have the energy to go out and play baseball or kickball with my kids. I surely don’t want my kids running circles around me.
 
-I think if we evaluate how our lifestyle is effecting ourselves and our loved ones than we can be provoked to want to change for the better.
+Maybe if we evaluate how our lifestyle is truly affecting ourselves and our loved ones, we will want to change for the better.
 
 What’s stopping you from changing your life?
