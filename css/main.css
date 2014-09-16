@@ -45,6 +45,7 @@ a:visited { color: #935621; }
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   background-color: #a96426;
+  opacity: 0.97;
 }
 
 .site-title,
@@ -356,6 +357,10 @@ a:visited { color: #935621; }
 @media screen and (max-width: 600px) {
 
   .wrap { padding: 0 12px; }
+  
+  body {
+    font-family: Helvetica, Arial, sans-serif;
+  }
 
   .site-nav {
     margin-top: 8px;
@@ -396,6 +401,10 @@ a:visited { color: #935621; }
     padding: 5px 10px;
     margin: 0;
     font-weight: bold;
+  }
+  
+  .site-title {
+    font-size: 24px;
   }
 
   .post-header h1 { font-size: 36px; color: #313131; }
