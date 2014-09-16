@@ -403,8 +403,9 @@ a:visited { color: #935621; }
     font-weight: bold;
   }
   
-  .site-title {
-    font-size: 24px;
+  .site-title
+  .site-title:hover {
+    font-size: 22px;
   }
 
   .post-header h1 { font-size: 36px; color: #313131; }
