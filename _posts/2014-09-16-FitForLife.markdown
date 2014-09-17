@@ -5,11 +5,15 @@ date:   2014-09-16
 categories: "fitness"
 ---
 
-If you’ve been following me on [Twitter](https://twitter.com/ShawnLknight), you’ve probably seen me post about CrossFit (a lot). I even built a [CrossFit](https://shawn-final.firebaseapp.com/#/) app for my final project at [The Iron Yard](http://theironyard.com/). A common complaint about people who CrossFit is how much they talk about it. Yes, sometimes we get carried away and I know that you probably don’t care what my Fran time is. However, you cannot deny the positive impact CrossFit or things like the Spartan Race have on our culture. You also cannot deny the health problems in this country that stem from unhealthy eating and living sedentary lives. So why do people get so upset when someone is excited about changing their lives for the better through exercise and healthy eating? 
+If you’ve been following me on [Twitter](https://twitter.com/ShawnLknight), you’ve probably seen me post about CrossFit (a lot). I even built a [CrossFit](https://shawn-final.firebaseapp.com/#/) app for my final project at [The Iron Yard](http://theironyard.com/). 
+
+A common complaint about people who CrossFit is how much they talk about it. Yes, sometimes we get carried away and I know that you probably don’t care what my Fran time is. However, you cannot deny the positive impact CrossFit or things like the Spartan Race have on our culture. You also cannot deny the health problems in this country that stem from unhealthy eating and living sedentary lives. So why do people get so upset when someone is excited about changing their lives for the better through exercise and healthy eating? 
 
 ###Convenience
 
-Our culture looks for convenience in everything we do. We look for the easy way out. We choose the elevator instead of the stairs. We choose the drive-thru instead of planning out our meals. Exercising isn’t a walk in the park either. After a long day at work, it’s not easy to be motivated to go for a run or go to the gym. I love CrossFit but I don’t always feel like doing a metcon in Charleston’s hot humid summers but I know what the alternative outcome can be.
+Our culture looks for convenience in everything we do. We look for the easy way out. We choose the elevator instead of the stairs. We choose the drive-thru instead of planning out our meals. 
+
+Exercising isn’t a walk in the park either. After a long day at work, it’s not easy to be motivated to go for a run or go to the gym. I love CrossFit but I don’t always feel like doing a metcon in Charleston’s hot humid summers but I know what the alternative outcome can be.
 
 There’s nothing convenient about being unhealthy though. I used to be the fat kid whose favorite activity was watching movies and eating a bowl of oreos with milk like it was cereal. I remember what it was like running out of breath walking up a flight of stairs. I remember fearing gym class because I couldn’t do a pull up or run a mile. I remember not sleeping well at night from being hopped up on Mountain Dew. There was nothing convenient about any of that. I never want to go back to that state of living.
 
