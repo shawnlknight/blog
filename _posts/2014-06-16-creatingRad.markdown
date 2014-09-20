@@ -5,7 +5,7 @@ date:   2014-06-16
 categories: 
 ---
 
-![giant](http://shawnleberknight.files.wordpress.com/2014/06/photo-2.jpg?w=350&h=350)
+![giant](http://shawnleberknight.files.wordpress.com/2014/06/photo-2.jpg?w=340&h=340)
 
 Last week I had the awesome opportunity to volunteer at the Giant Conference here in Charleston, SC. The theme of this conference was "Creating Rad Experiences" and it brought together some of the best UX professionals in web, design, print, retail and branding to learn from each other.
 
