@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
 a         { color: #a96426; text-decoration: none; }
 a:hover   { color: #000; }
-a:visited { color: #935621; }
+/*a:visited { color: #935621; }*/
 
 /* Utility */
 
@@ -43,7 +43,7 @@ a:visited { color: #935621; }
 .site-header {
   /*border-top: 5px solid #333;*/
   /*border-bottom: 1px solid #e8e8e8;*/
-  max-height: 45px;
+  max-height: 50px;
   background-color: #e8e8e8;
   opacity: 0.97;
   position: fixed;
