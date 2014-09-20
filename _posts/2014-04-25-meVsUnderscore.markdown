@@ -5,8 +5,6 @@ date:   2014-04-25
 categories: 
 ---
 
-![officeSpace](http://g-ecx.images-amazon.com/images/G/01/dvd/fox/officespace/Office2_L.jpg =200x200)
-
 This past week at The Iron Yard we were assigned group projects and had to incorporate Underscore.js. For our project, my team decided to make a website for an online store and to use Underscore to help in building the products page and the shopping cart. We thought this would be the simplest option to try out our JavaScript skills. It was anything but easy.
 
 Most of the week I felt like I was in a battle with Underscore and it was winning by a landslide. There were times I wanted to go Office Space on my computer with a bat. There is no greater feeling though, than when you refresh your page and see your code actually function correctly! That moment came late Thursday night. I was sleep deprived and over-caffeinated but I wasn’t going to let Underscore beat me. I had a revelation on what was missing from our code and like magic, everything fell into place.
