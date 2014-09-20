@@ -5,7 +5,7 @@ date:   2014-04-25
 categories: 
 ---
 
-![officeSpace](http://g-ecx.images-amazon.com/images/G/01/dvd/fox/officespace/Office2_L.jpg?w=300&h=300)
+![officeSpace](http://g-ecx.images-amazon.com/images/G/01/dvd/fox/officespace/Office2_L.jpg w=300&h=300)
 
 This past week at The Iron Yard we were assigned group projects and had to incorporate Underscore.js. For our project, my team decided to make a website for an online store and to use Underscore to help in building the products page and the shopping cart. We thought this would be the simplest option to try out our JavaScript skills. It was anything but easy.
 
