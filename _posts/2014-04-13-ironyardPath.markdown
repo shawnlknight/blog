@@ -5,7 +5,7 @@ date:   2014-04-13
 categories: 
 ---
 
-![Image of Iron Yard](http://shawnleberknight.files.wordpress.com/2014/04/ironyard.jpg?w=600&h=600 =300x)
+![Image of Iron Yard](http://shawnleberknight.files.wordpress.com/2014/04/ironyard.jpg?w=300&h=300)
 
 Getting out of your comfort zone is hard and not the path most of us choose to take. We like predictable outcomes and the safety that accompanies them. The problem with that sort of life is that it is really boring!
 
