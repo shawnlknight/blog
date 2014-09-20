@@ -5,6 +5,8 @@ date:   2014-05-01
 categories: 
 ---
 
+![ironyard crossfit](http://shawnleberknight.files.wordpress.com/2014/05/barbell.jpg?w=300&h=278)
+
 So far, my experience at The Iron Yard reminds me a lot of when I first started Crossfit. I had watched videos of Crossfit and tried doing some of the WODs (workouts of the day) on my own. I did the same with coding, using free online courses and watching tutorials. I eventually decided to visit an official Crossfit gym and thought it wouldn’t be much different from what I was already doing. I was soon proven very wrong.
 
 When I walked in to the warehouse-like building I was quickly overwhelmed with what I was witnessing. I thought I had stumbled upon the Navy Seals training for combat. None of my previous experiences had prepared me for the torture I was about to endure. The workout completed destroyed me and was left sprawled out on the floor not able to move. I was immediately hooked.
