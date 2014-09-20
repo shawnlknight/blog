@@ -5,6 +5,7 @@ date:   2014-04-21
 categories: 
 ---
 
+![oil](http://shawnleberknight.files.wordpress.com/2014/04/image.jpg?w=566&h=300)
 
 It seems that many creative types love to work late at night. That’s when the muse speaks to them. The problem for me is that I cannot keep my eyes open past 10pm. Maybe its because my toddler sucks all of my energy so by the time I try to code I end up falling asleep in front of my laptop. I inevitably wake up to a blank screen because in my delirium I’ve deleted all of my content. I’ve since learned to ‘command  s’ (save) every time I blink.
 
