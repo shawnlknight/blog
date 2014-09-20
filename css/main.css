@@ -46,6 +46,8 @@ a:visited { color: #935621; }
   min-height: 56px;
   background-color: #a96426;
   opacity: 0.97;
+  position: fixed;
+  width: 100%;
 }
 
 .site-title,
