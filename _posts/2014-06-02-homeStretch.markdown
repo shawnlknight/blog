@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Home Sretch"
+title:  "The Home Stretch"
 date:   2014-06-02 
 categories: 
 ---
