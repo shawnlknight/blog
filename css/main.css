@@ -431,6 +431,10 @@ a:hover   { color: #000; }
   .site-title
   .site-title:hover {
     font-size: 22px;
+  }
+  
+  .site-title,
+  .site-title:visited {
     margin-right: 0;
   }
 
