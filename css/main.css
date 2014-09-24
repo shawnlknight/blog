@@ -402,6 +402,7 @@ a:hover   { color: #000; }
     width: 36px;
     text-align: center;
     line-height: 36px;
+    margin-left: 10px;
   }
 
   .site-nav .menu-icon svg { 
