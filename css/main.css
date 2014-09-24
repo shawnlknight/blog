@@ -35,6 +35,7 @@ a:hover   { color: #000; }
 }
 
 .myPic {
+  margin-top: 30px;
     border-radius: 100%;
     opacity: 0.95;
 }
@@ -149,6 +150,10 @@ a:hover   { color: #000; }
 .page-content {
   padding: 30px 0;
   background-color: #f3f3f3;
+}
+
+.page-content img {
+  text-align: center;
 }
 
 
