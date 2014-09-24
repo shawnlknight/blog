@@ -10,7 +10,7 @@ html, body { height: 100%; }
 
 body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
   font-weight: 400;
   background-color: #e8e8e8;
@@ -56,7 +56,6 @@ a:hover   { color: #000; }
 }
 
 .site-title,
-.site-title:hover,
 .site-title:visited {
   display: block;
   color: #a96426;
@@ -64,14 +63,18 @@ a:hover   { color: #000; }
   font-weight: bold;
   letter-spacing: -.5px;
   float: right;
-  line-height: 56px;
+  line-height: 50px;
   position: relative;
   z-index: 1;
 }
 
+.site-title:hover {
+  color: #282828;
+}
+
 .site-nav {
   float: left;
-  line-height: 56px;
+  line-height: 50px;
 }
 
 .site-nav .menu-icon { display: none; }
@@ -82,6 +85,10 @@ a:hover   { color: #000; }
   letter-spacing: 1px;
   font-size: 24px;
   font-family: Helvetica, Arial, sans-serif;
+}
+
+.site-nav .page-link:hover {
+  color: #a96426;
 }
 
 /* Site footer */
