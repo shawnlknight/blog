@@ -59,7 +59,7 @@ a:hover   { color: #000; }
 .site-title:visited {
   display: block;
   color: #a96426;
-  /*font-family: "Signika Negative";*/
+  font-family: "Signika Negative", Helvetica, Arial, sans-serif;
   font-size: 26px;
   font-weight: bold;
   letter-spacing: -.5px;
@@ -87,7 +87,7 @@ a:hover   { color: #000; }
   color: #282828;
   letter-spacing: 1px;
   font-size: 20px;
-  /*font-family: "Signika Negative", Helvetica, Arial, sans-serif;*/
+  font-family: "Signika Negative", Helvetica, Arial, sans-serif;
 }
 
 .site-nav .page-link:hover {
