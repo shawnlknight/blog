@@ -179,13 +179,13 @@ a:hover   { color: #000; }
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
-  font-size: 24px;
+  font-size: 40px;
   line-height: 1;
 }
 
 .posts .post-date {
   display: block;
-  font-size: 15px;
+  font-size: 22px;
   color: #818181;
 }
 
