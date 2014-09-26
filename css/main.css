@@ -9,7 +9,7 @@
 html, body { height: 100%; }
 
 body {
-  font-family: "Signika Negative", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue Light", Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1.5;
   font-weight: 400;
@@ -59,6 +59,7 @@ a:hover   { color: #000; }
 .site-title:visited {
   display: block;
   color: #a96426;
+  font-family: "Signika Negative";
   font-size: 26px;
   font-weight: bold;
   letter-spacing: -.5px;
