@@ -1,2 +1,2 @@
-js for site
+// js for site
 
