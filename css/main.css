@@ -113,7 +113,7 @@ a:hover   { color: #000; }
   padding-top: 250px;
   font-size: 60px;
   font-family: "Signika Negative", Helvetica, Arial, sans-serif;
-  text-shadow: rgb(51, 51, 51) 0px 0px 20px;
+  text-shadow: rgb(0, 0, 0) 0px 0px 30px;
 }
 
 /* Site footer */
