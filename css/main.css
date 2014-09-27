@@ -377,6 +377,10 @@ a:hover   { color: #000; }
 
 @media screen and (max-width: 750px) {
 
+  .jumbotron {
+    background: #303030;
+  }
+
   .footer-col-1 { width: 50%; }
 
   .footer-col-2 {
