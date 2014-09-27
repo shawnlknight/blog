@@ -463,11 +463,12 @@ a:hover   { color: #000; }
   }
   
   .jumbotron {
-    min-height: 400px;
+    min-height: 200px;
+    background-size: contain;
   }
   .jumbotron h1 {
-    font-size: 1.5em;
-    padding-top: 150px;
+    font-size: 2.5em;
+    padding-top: 100px;
   }
 
   .post-header h1 { font-size: 36px; color: #313131; }
