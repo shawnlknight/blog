@@ -461,6 +461,10 @@ a:hover   { color: #000; }
   .site-title:visited {
     margin-right: 0;
   }
+  
+  .jumbotron {
+    display: none;
+  }
 
   .post-header h1 { font-size: 36px; color: #313131; }
   .post-content h2 { font-size: 28px; }
