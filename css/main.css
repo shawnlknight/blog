@@ -456,7 +456,7 @@ a:hover   { color: #000; }
   
   .site-title,
   .site-title:visited {
-    margin-right: 0;
+    margin-right: 5px;
   }
   
   .jumbotron {
