@@ -106,12 +106,11 @@ a:hover   { color: #000; }
   background-size: cover;
   background-attachment: fixed;
   text-align: center;
-  opacity: .75;
 }
 
 .jumbotron h1 {
   color: rgb(233, 232, 235);
-  padding-top: 200px;
+  padding-top: 250px;
   font-size: 60px;
   font-family: "Signika Negative", Helvetica, Arial, sans-serif;
   text-shadow: rgb(51, 51, 51) 0px 0px 20px;
