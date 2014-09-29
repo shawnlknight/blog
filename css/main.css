@@ -46,11 +46,12 @@ a:hover   { color: #000; }
 /* Site header */
 
 .site-header {
-  max-height: 50px;
+  max-height: 48px;
   background-color: #e8e8e8;
   position: fixed;
   width: 100%;
-  border-bottom: 1px solid #303030;
+  /*border-bottom: 1px solid #303030;*/
+  opacity: .97;
 }
 
 .site-title,
@@ -74,7 +75,7 @@ a:hover   { color: #000; }
 
 .site-nav {
   float: left;
-  line-height: 50px;
+  line-height: 45px;
 }
 
 .site-nav .menu-icon { display: none; }
@@ -424,7 +425,7 @@ a:hover   { color: #000; }
 
   .site-nav .menu-icon {
     display: block;
-    font-size: 24px;
+    font-size: 20px;
     color: #a96426;
     float: left;
     width: 36px;
