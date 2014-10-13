@@ -440,10 +440,10 @@ a:hover   { color: #000; }
     height: 20px; 
   }
 
-  .trigger {
+  /*.trigger {
     clear: both;
     margin-bottom: 5px;
-  }
+  }*/
 
   .hide {
     display: none;
