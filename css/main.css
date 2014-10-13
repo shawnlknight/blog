@@ -445,7 +445,7 @@ a:hover   { color: #000; }
     display: none;
   }
 
-  .site-nav .trigger { display: block; }
+  /*.site-nav .trigger { display: block; }*/
 
   .site-nav .page-link {
     display: block;
