@@ -420,8 +420,7 @@ a:hover   { color: #000; }
     background-color: #e8e8e8;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-    width: 150px;
-    height: 150px;
+    width: 100px;
   }
 
   .site-nav .menu-icon {
@@ -440,10 +439,10 @@ a:hover   { color: #000; }
     height: 20px; 
   }
 
-  /*.trigger {
+  .trigger {
     clear: both;
     margin-bottom: 5px;
-  }*/
+  }
 
   .hide {
     display: none;
