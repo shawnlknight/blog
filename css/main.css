@@ -18,8 +18,17 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #a96426; text-decoration: none; }
-a:hover   { color: #000; }
+a { 
+  /*color: #a96426;*/ 
+  color: blue;
+  text-decoration: none; 
+  transition: all .25s;
+}
+
+a:hover { 
+  color: #000; 
+  transition: all .25s;
+}
 /*a:visited { color: #935621; }*/
 
 /* Utility */
