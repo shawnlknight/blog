@@ -454,10 +454,11 @@ a:hover {
 
   .trigger {
     clear: both;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     background: #e8e8e8;
     text-align: center;
     font-size: 30px;
+    height: 130px;
   }
 
   .mainNav {
