@@ -451,6 +451,12 @@ a:hover {
   .trigger {
     clear: both;
     margin-bottom: 5px;
+    background: #e8e8e8;
+  }
+
+  .trigger > a {
+    text-align: center;
+    font-size: 16px;
   }
 
   .hide {

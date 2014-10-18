@@ -20,10 +20,10 @@
     </nav>
     <div class="trigger hide">
         {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ site.home }}">{{ page.title }}</a>{% endif %}
+          {% if page.title %}<div><a class="page-link" href="{{ site.home }}">{{ page.title }}</a></div>{% endif %}
         {% endfor %}
         {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ site.me }}">Me</a>{% endif %}
+          {% if page.title %}<div><a class="page-link" href="{{ site.me }}">Me</a></div>{% endif %}
         {% endfor %}
       </div>
 
