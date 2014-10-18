@@ -6,8 +6,12 @@ $(document).ready(function() {
 		$(".trigger").toggleClass("hide");
 	});
 
-	if ($(".mainNav").is('visible')) {
-		$(".trigger").addClass("hide");
-	}
+	$(window).resize(function () {
+		if ($(".mainNav").is('visible')) {
+			$(".trigger").addClass("hide");
+		}
+	});
+
+	
 });
 
