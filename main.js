@@ -5,9 +5,13 @@ $(document).ready(function() {
 	
 
 	$(window).resize(function () {
-		if ($(".mainNav").is('visible')) {
-			$(".trigger").hide();
-		} else {
+		// if ($(".mainNav").is('visible')) {
+		// 	$(".trigger").hide();
+		// } else {
+		// 	$(".trigger").addClass("hide");
+		// }
+
+		if (screen.width>750px) {
 			$(".trigger").addClass("hide");
 		}
 	});
