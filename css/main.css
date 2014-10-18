@@ -462,7 +462,9 @@ a:hover {
   }
 
   .triggerLink {
+    margin-top: 10px;
     margin-bottom: 20px; 
+    color: ;
   }
 
   .mainNav {
@@ -484,6 +486,7 @@ a:hover {
     margin-top: 10px;
     margin-bottom: 10px;
     font-weight: bold;
+    color: #282828;
   }
   
   .site-title
