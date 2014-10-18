@@ -16,7 +16,9 @@
             c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
       </a>
-      <div class="trigger hide">
+      
+    </nav>
+    <div class="trigger hide">
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ site.home }}">{{ page.title }}</a>{% endif %}
         {% endfor %}
@@ -24,7 +26,6 @@
           {% if page.title %}<a class="page-link" href="{{ site.me }}">Me</a>{% endif %}
         {% endfor %}
       </div>
-    </nav>
 
   </div>
 
