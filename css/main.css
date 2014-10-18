@@ -102,6 +102,10 @@ a:hover {
   color: #a96426;
 }
 
+.trigger {
+  display: none;
+}
+
 .jumbotron {
   width: 100%;
   min-height: 550px;
