@@ -456,6 +456,10 @@ a:hover {
     font-size: 30px;
   }
 
+  .mainNav {
+    display: none;
+  }
+
   .hide {
     display: none;
   }
