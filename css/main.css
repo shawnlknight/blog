@@ -461,6 +461,10 @@ a:hover {
     height: 130px;
   }
 
+  .triggerLink {
+    margin-bottom: 20px; 
+  }
+
   .mainNav {
     display: none;
   }
