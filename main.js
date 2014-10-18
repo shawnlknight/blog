@@ -6,11 +6,11 @@ $(document).ready(function() {
 		$(".trigger").toggleClass("hide");
 	});
 
-	$(window).resize(function () {
-		if ($(".mainNav").is('visible')) {
-			$(".trigger").hide();
-		}
-	});
+	// $(window).resize(function () {
+	// 	if ($(".mainNav").is('visible')) {
+	// 		$(".trigger").hide();
+	// 	}
+	// });
 
 	
 });
