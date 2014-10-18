@@ -518,7 +518,7 @@ a:hover {
 
 }
 
-@media screen and (min-width:1024px){
+@media screen and (min-width:750px){
     .trigger {
         display: none;
     }
