@@ -461,11 +461,12 @@ a:hover {
     height: 130px;
   }
 
-  .triggerLink a {
-    margin-top: 10px;
-    margin-bottom: 20px; 
-    color: #282828;
+  .triggerLink {
     margin-top: 20px;
+  }
+
+  .triggerLink a {
+    color: #282828;
   }
 
   .triggerLink a:hover {
