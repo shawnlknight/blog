@@ -4,21 +4,23 @@
 $(document).ready(function() {
 	
 
-	$(window).resize(function () {
-		// if ($(".mainNav").is('visible')) {
-		// 	$(".trigger").hide();
-		// } else {
-		// 	$(".trigger").addClass("hide");
-		// }
-
-		if (screen.width>750px) {
-			$(".trigger").style.display == 'none'
-		}
-	});
+	
 
 	$(".menu-icon").click(function() {
 		$(".trigger").toggleClass("hide");
 	});
+
+	// $(window).resize(function () {
+	// 	// if ($(".mainNav").is('visible')) {
+	// 	// 	$(".trigger").hide();
+	// 	// } else {
+	// 	// 	$(".trigger").addClass("hide");
+	// 	// }
+
+	// 	if (screen.width>750px) {
+	// 		$(".trigger").style.display == 'none'
+	// 	}
+	// });
 
 	
 });
