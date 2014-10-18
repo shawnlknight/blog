@@ -12,7 +12,7 @@ $(document).ready(function() {
 		// }
 
 		if (screen.width>750px) {
-			$(".trigger").addClass("hide");
+			$(".trigger").style.display == 'none'
 		}
 	});
 
