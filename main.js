@@ -8,7 +8,7 @@ $(document).ready(function() {
 
 	$(window).resize(function () {
 		if ($(".mainNav").is('visible')) {
-			$(".trigger").addClass("hide");
+			$(".trigger").hide();
 		}
 	});
 
