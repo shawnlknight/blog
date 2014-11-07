@@ -294,6 +294,10 @@ a:hover {
 .post-content ul,
 .post-content ol { padding-left: 20px; }
 
+.post-content a:hover {
+  text-decoration: underline;
+}
+
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
@@ -490,7 +494,7 @@ a:hover {
   }
 
   .triggerLink a:hover {
-    color: #a96426;
+    color: rgb(116, 9, 0);
   }
 
   .mainNav {
