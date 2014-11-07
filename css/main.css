@@ -295,7 +295,7 @@ a:hover {
 .post-content ol { padding-left: 20px; }
 
 .post-content a:hover {
-  text-decoration: underline;
+  border-bottom: 2px solid rgb(116, 9, 0);
 }
 
 .post pre,
