@@ -28,7 +28,7 @@ a {
 
 a:hover { 
   color: #000; 
-  transition: all .25s;
+  transition: all .3s ease;
 }
 /*a:visited { color: #935621; }*/
 
