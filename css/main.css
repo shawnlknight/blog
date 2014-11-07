@@ -23,12 +23,18 @@ h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 a { 
   color: rgb(116, 9, 0); 
   text-decoration: none; 
-  transition: all .3s ease;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
 }
 
 a:hover { 
   color: #000; 
-  /*transition: all .3s ease;*/
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
 }
 /*a:visited { color: #935621; }*/
 
