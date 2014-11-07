@@ -213,7 +213,7 @@ a:hover {
 
 .home h1 { 
   margin-bottom: 25px;
-  z-index: 40;
+  z-index: 20;
   position: relative;
 }
 
