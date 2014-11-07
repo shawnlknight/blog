@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "On Time"
+date:   2014-11-07
+categories: productivity
+---
+
 When was the last time you had a planned meeting where the other party was late? I bet you were upset, feeling like your time was wasted. You may have felt it was rude and inconsiderate.
 
 ####Life Happens
