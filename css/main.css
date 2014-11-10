@@ -556,6 +556,10 @@ a:hover {
   .post-content ol { padding-left: 10px; }
   .post-content { color: #313131; }
 
+  .post-link {
+    font-size: 32px;
+  }
+
   .site-footer .column {
     float: none;
     clear: both;
