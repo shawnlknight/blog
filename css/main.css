@@ -556,7 +556,7 @@ a:hover {
   .post-content ol { padding-left: 10px; }
   .post-content { color: #313131; }
 
-  .post-link {
+  .posts .post-link {
     font-size: 32px;
   }
 
