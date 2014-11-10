@@ -119,7 +119,7 @@ a:hover {
 .jumbotron {
   width: 100%;
   min-height: 550px;
-  background: url(http://blog.ctnews.com/meyers/files/2014/07/literarybrooklyn1.jpg);
+  background: url(/images/brooklyn.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
