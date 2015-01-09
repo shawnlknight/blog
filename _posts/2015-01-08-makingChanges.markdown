@@ -8,7 +8,7 @@ categories:
 
 More than likely you have made a New Year's resolution. Maybe you decided to eat better or exercise more. We all see the posts on social media about how this year will be the one where we drastically change how we live. Well, I didn’t set out to do this in 2014 but that’s exactly what happened. 
 
-#Background
+##Background
 
 Let me back up to the year 2013. I was in my 4th year working in logistics as a warehouse specialist. I liked many aspects of my job but I had come to the point where I wasn’t really being challenged anymore. However, I was a little too comfortable and it was easy to go with the flow of life. Then, the government shutdown happened. Government employees were back payed for all of that mess but contractors, like me, were not. Time to do something different.
 
@@ -18,7 +18,7 @@ After three weeks I gave up on the thought of changing careers and settled back 
 
 Anyways, I talked it over with my wife and we decided it was a good idea for me to take the offer. It was actually really hard giving my notice at my warehousing job. I had been there for a long time and formed a lot of relationships. Most people were happy for me and supportive and I’ll never forget all the lessons I learned at that job.
 
-#New Job
+##New Job
 
 I was excited to dive into some different work that would stretch and challenge me. I was hired as a data analyst and quickly found out how important this job is at this particular company. My team was compromised of smart, hard working people. They were all very helpful in getting me acclimated to my tasks. 
 
@@ -32,7 +32,7 @@ I started thinking I made the wrong decision switching jobs. But I kept remindin
 
 Something had to change. I was getting into a very dark place mentally. 
 
-#A Bright Light
+##A Bright Light
 
 One evening I noticed on Facebook that a friend/neighbor of mine had starting working for a place called [The Iron Yard][ironYard]. The name of the place intrigued me so I looked it up online. Their website says they can teach you programming in three months and help you find a job. Sounded a little unbelievable and I was skeptical but interested. I had actually started trying to teach myself basic web development using free programs online back around the time of the government shutdown. I really enjoyed it but stopped because I didn’t have much free time anymore. 
 
@@ -44,13 +44,13 @@ I was still a little hesitant about going back to school though. Since I graduat
 
 So here I was, putting my notice in at this software company after only three months. I know, not a very long run. However, I was met with support from my team and even told to keep in touch because they were always looking for programming talent! This was a good sign and gave me some relief on my decision.
 
-#Back to School
+##Back to School
 
 There is no amount of preparation I think I could of done to help me realize what I had gotten myself into. Those online programming schools only skim the surface of being a computer engineer. I won’t go into too much detail because I’ve written about some of my experiences earlier in my [blog][blogPost1]. But I will say it was the hardest, most challenging, most rewarding endeavor I’ve ever undertaken (except for convincing my wife to like me when we first met, but that’s another story). There were a multitude of times I thought I wouldn’t make it through the course. I was told the *fever* would break about halfway through the course. It did, and I started believing that I could actually make it as a computer engineer. 
 
 I cannot tell you how excited I was and overwhelmed with pure joy at the end of the course when multiple software companies in Charleston (including my previous employer) wanted to interview me for a programmer position. With the help of the awesome people at The Iron Yard and the support of my lovely wife, I had completely change my career and life in three months! **Crazy!**.
 
-#Dream Job
+##Dream Job
 
 You may have read my earlier [post][blogPost2] about this but I choose to go with a fantastic company called [Sparc][sparc]. I started July 14, 2014 as a *UI/UX Engineer* for one of the fastest growing software companies in the nation and I had only been programming for a few months. This was **insane!** 
 
