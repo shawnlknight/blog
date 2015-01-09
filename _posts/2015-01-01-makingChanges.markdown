@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making Changes"
-date:  
+date:  2015-01-08
 categories: 
 ---
 
