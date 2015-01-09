@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Making Changes"
+date:  
+categories: 
 ---
 
 
