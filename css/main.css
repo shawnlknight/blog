@@ -312,9 +312,8 @@ a:hover {
 .post-content ul,
 .post-content ol { padding-left: 20px; }
 
-.post-content a:hover {
-  border-bottom: 2px solid rgb(116, 9, 0);
-}
+.post-content a { font-weight: 600; }
+.post-content a:hover { border-bottom: 2px solid rgb(116, 9, 0); }
 
 .post pre,
 .post code {
@@ -556,6 +555,7 @@ a:hover {
   .post-content ul,
   .post-content ol { padding-left: 10px; }
   .post-content { color: #313131; }
+  .post-content { font-size: 15px; }
 
   .posts .post-link {
     font-size: 32px;
