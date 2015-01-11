@@ -24,6 +24,7 @@ layout: default
 
       <!-- Pagination links -->
       <nav id="pagination">
+        {% for post in paginator.posts %}
           {% if paginator.previous_page %}
             {% if paginator.previous_page == 1 %}
             <a href="/" title="Previous Page">&laquo; Previous</a>
@@ -36,6 +37,7 @@ layout: default
           <a href="/page{{ paginator.next_page }}/" title="Next Page">Next &raquo;</a>
           {% endif %} 
       </nav>
+
     </div>
 
   </div>
