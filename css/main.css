@@ -352,9 +352,9 @@ a:hover {
 
 
 /* Comment Section */
-.comments-section {
+/*.comments-section {
   margin: 0 20%;
-}
+}*/
 
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
@@ -425,26 +425,26 @@ a:hover {
 /* media queries */
 /* ----------------------------------------------------------*/
 
-@media screen and (max-width: 1000px) {
+/*@media screen and (max-width: 1000px) {
   .comments-section {
     margin: 0 15%;
   }
-}
+}*/
 
 @media screen and (max-width: 800px) {
   .jumbotron {
     background: #303030;
   }
-  .comments-section {
+  /*.comments-section {
     margin: 0 10%;
-  }
+  }*/
 }
 
 @media screen and (max-width: 750px) {
 
-  .comments-section {
+  /*.comments-section {
     margin: 0 5%;
-  }
+  }*/
 
   .footer-col-1 { width: 50%; }
 
@@ -584,9 +584,9 @@ a:hover {
     width: auto;
     margin: 0 0 15px; }
 
-  .comments-section {
+  /*.comments-section {
     margin: 0 3%;
-  }
+  }*/
 
 }
 
