@@ -350,6 +350,12 @@ a:hover {
 
 .post pre.terminal code { background-color: #333; }
 
+
+/* Comment Section */
+.comments-section {
+  margin: 0 20%;
+}
+
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
 
@@ -423,11 +429,16 @@ a:hover {
   .jumbotron {
     background: #303030;
   }
+  .comments-section {
+    margin: 0 15%;
+  }
 }
 
 @media screen and (max-width: 750px) {
 
-  
+  .comments-section {
+    margin: 0 10%;
+  }
 
   .footer-col-1 { width: 50%; }
 
@@ -566,6 +577,10 @@ a:hover {
     clear: both;
     width: auto;
     margin: 0 0 15px; }
+
+  .comments-section {
+    margin: 0 5%;
+  }
 
 }
 
