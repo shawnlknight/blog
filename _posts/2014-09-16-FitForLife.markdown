@@ -13,7 +13,7 @@ A common complaint about people who CrossFit is how much they talk about it. Yes
 
 Our culture looks for convenience in everything we do. We look for the easy way out. We choose the elevator instead of the stairs. We choose the drive-thru instead of planning out our meals. 
 
-Exercising isn’t a walk in the park either. After a long day at work, it’s not easy to be motivated to go for a run or go to the gym. I love CrossFit but I don’t always feel like doing a metcon in Charleston’s hot humid summers but I know what the alternative outcome can be.
+Keeping up with an exercise regiment isn't a piece of cake. After a long day at work, it’s hard to be motivated to jog or go to the gym. I love CrossFit but I don’t always feel like doing a metcon in Charleston’s hot humid summers but I know what the alternative outcome can be.
 
 There’s nothing convenient about being unhealthy though. I used to be the fat kid whose favorite activity was watching movies and eating a bowl of oreos with milk like it was cereal. I remember what it was like running out of breath walking up a flight of stairs. I remember fearing gym class because I couldn’t do a pull up or run a mile. I remember not sleeping well at night from being hopped up on Mountain Dew. There was nothing convenient about any of that. I never want to go back to that state of living.
 

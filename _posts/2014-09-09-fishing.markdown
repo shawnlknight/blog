@@ -18,4 +18,6 @@ In software development this is especially true. In the beginning of learning to
 
 The key is to actually learn from these experiences. Write down what you have learned so next time you have the answer. You may even get the opportunity to teach someone else your newfound knowledge.
 
+I don't get this right all the time but I'm always trying to find the right balance between the two extremes.
+
 The bottom line is, don't expect others to do your work but don’t hinder progress by being too proud to ask for help.
