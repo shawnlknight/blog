@@ -3,6 +3,7 @@ layout: post
 title:  "Making Changes"
 date:  2015-01-08
 categories: 
+comments: True
 ---
 
 
