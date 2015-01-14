@@ -584,9 +584,9 @@ a:hover {
     width: auto;
     margin: 0 0 15px; }
 
-  /*.comments-section {
-    margin: 0 3%;
-  }*/
+  .comments-section {
+    margin: 0 2%;
+  }
 
 }
 
