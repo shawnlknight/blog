@@ -14,9 +14,9 @@ This “true self” is only allowed to come out in the back stage. This is wher
 ###Multiple Roles
 You probably have multiples roles you "play" throughout the day:
 
--Your Work Role
--Your Family Role
--Your Friend Role
+- Your Work Role
+- Your Family Role
+- Your Friend Role
 
 These roles have crossovers but are definitely different in certain respects.
 
