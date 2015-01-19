@@ -23,7 +23,9 @@ You probably don't want to spill your life problems to the clerk at the gas stat
 
 I do think it's healthy to open up at work to people you consider good comrades. If you are going to sit next to someone for 8 hours a day, why wouldn't you want to share some of your life with them?
 
+###Robots
 But we are so guarded. We are afraid of what people will think of us. We hide behind surface level conversations. Think about your typical interactions and how they usually play out,
+
 > Coworker: Hey how are you?
 
 > You: Good, how about you?
@@ -31,14 +33,6 @@ But we are so guarded. We are afraid of what people will think of us. We hide be
 > Coworker: I'm good.
 
 How in the world can every person be “good” all the time? We are behaving more like robots with pre-programed responses. 
-
-```javascript
-function humanInteraction() {
-  if ($(“.humanSays’).val() == "How are you?") {
-    alert("Good, how are you?")
-  }
-}
-```
 
 I am guilty of doing this but I'm trying to be more honest with people. I get that it’s not realistic to have a lengthy conversation with every person you interact with but for goodness sake, can we be a little more honest and open with people we interact with on a regular basis?
 
