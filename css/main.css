@@ -596,7 +596,11 @@ a:hover {
     }
 }
 
-
+@media screen and (orientation:landscape) {
+    .site-header {
+      display: none;
+    }
+}
 
 
 
