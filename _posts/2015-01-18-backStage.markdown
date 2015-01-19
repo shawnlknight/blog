@@ -39,7 +39,7 @@ Is it possible for so many people to be *good* all of the time? We are behaving 
 ~~~javascript
 function humanInteraction() {
   if ($(".humanSays").val() == "How are you?") {
-    alert("Good, how are you?")
+    alert("Good, how are you?");
   }
 }
 ~~~
