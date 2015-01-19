@@ -12,7 +12,7 @@ This “true self” is only allowed to come out in the backstage. This is where
 
 
 ###Multiple Roles
-You probably have multiples roles you "play" throughout the day:
+You probably have multiples roles you play throughout the day:
 
 - Spouse/significant other
 - Parent
