@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 One thing ~~all~~ most humans have in common is how we portray ourselves differently depending on who we are interacting with. In his *The Presentation of Self in Everyday Life*, sociologist Erving Goffman calls this "front stage” behavior. Goffman uses theater imagery in his explanation of human interaction. Humans, like actors, portray a certain identity to their audience and would never reveal their true selves to said audience.
