@@ -596,12 +596,21 @@ a:hover {
     }
 }
 
-@media screen and (orientation:landscape) {
+/*@media screen and (min-device-width : 375px) 
+and (max-device-width : 667px) and (orientation:landscape) {
     .site-header {
       display: none;
     }
-}
+}*/
 
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : landscape) { 
+    .site-header {
+      display: none;
+    }
+  }
 
 
 
