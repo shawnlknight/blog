@@ -37,7 +37,7 @@ How in the world can every person be “good” all the time? We are behaving mo
 
 ~~~javascript
 function humanInteraction() {
-  if ($(“.humanSays’).val() == "How are you?") {
+  if ($(".humanSays").val() == "How are you?") {
     alert("Good, how are you?")
   }
 }
