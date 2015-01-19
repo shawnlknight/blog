@@ -2,7 +2,7 @@
 layout: post
 title:  "Backstage"
 date:  2015-01-18
-categories: 
+categories: life
 comments: True
 ---
 
