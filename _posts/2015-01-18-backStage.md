@@ -6,16 +6,17 @@ categories:
 comments: True
 ---
 
-One thing ~~all~~ most humans have in common is how we portray ourselves differently depending on who we are interacting with. In his *The Presentation of Self in Everyday Life*, sociologist Erving Goffman calls this "front stage” behavior. Goffman uses theater imagery in his explanation of human interaction. Humans, like actors, portray a certain identity to their audience and would never reveal their true selves to said audience.
+One thing most humans have in common is how we portray ourselves differently depending on who we are interacting with. In his *The Presentation of Self in Everyday Life*, sociologist Erving Goffman calls this "front stage” behavior. Goffman uses theater imagery in his explanation of human interaction. Humans, like actors, portray a certain identity to their audience and would never reveal their true selves to said audience.
 
 This “true self” is only allowed to come out in the back stage. This is where we are free to express our deepest darkest feelings and thoughts. You may allow parts of your true self to be seen by a select few but the only time we ever show 100% is when we are alone.
 
 
 ###Multiple Roles
 You probably have multiples roles you "play" throughout the day:
-- Your Work Role
-- Your Family Role
-- Your Friend Role
+
+-Your Work Role
+-Your Family Role
+-Your Friend Role
 
 These roles have crossovers but are definitely different in certain respects.
 
