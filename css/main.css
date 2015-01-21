@@ -612,7 +612,7 @@ a:hover {
 }*/
 
 
-@media screen and (orientation:landscape) {
+@media screen (max-width: 568px) and (orientation:landscape) {
     .site-header {
       display: none;
     }
