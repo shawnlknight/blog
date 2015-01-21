@@ -237,7 +237,7 @@ a:hover {
 
 .posts { list-style-type: none; }
 
-.posts li { margin-bottom: 30px; }
+.posts li { margin-bottom: 80px; }
 
 .posts .post-link {
   font-size: 40px;
@@ -248,6 +248,10 @@ a:hover {
   display: block;
   font-size: 22px;
   color: #818181;
+}
+
+.post-excerpt {
+  margin-top: 10px;
 }
 
 
