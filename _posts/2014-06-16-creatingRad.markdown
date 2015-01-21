@@ -7,7 +7,7 @@ categories:
 
 ![giant](http://shawnleberknight.files.wordpress.com/2014/06/photo-2.jpg?w=300&h=300)
 
-Last week I had the awesome opportunity to volunteer at the Giant Conference here in Charleston, SC. The theme of this conference was "Creating Rad Experiences" and it brought together some of the best UX professionals in web, design, print, retail and branding to learn from each other.
+Last week I had the awesome opportunity to volunteer at the Giant Conference here in Charleston, SC. The theme of this conference was "Creating Rad Experiences" <!-- more -->and it brought together some of the best UX professionals in web, design, print, retail and branding to learn from each other.
 
 I was tasked with helping backstage at the main venue and was able to meet and talk with some of the great minds in the industry. I loved how they were all so willing to give advice to someone like me who is so new to this world. The emcee, Mike Watson, was especially great and after asking me why I was pursuing web development, ensured me I was on the right path. He worked in an industry for way too long that he did not love and even though it was lucrative, it was not worth it. Life is too short to spend it at a job you hate.
 
