@@ -601,32 +601,22 @@ a:hover {
     }
 }
 
-/*@media screen and (min-device-width : 375px) 
-and (max-device-width : 667px) and (orientation:landscape) {
-    .site-header {
+
+
+
+
+/*@media screen and (min-aspect-ratio: 4/3){
+  .site-header {
       display: none;
     }
 }*/
 
-@media only screen 
-and (min-device-width : 375px) 
-and (max-device-width : 667px) 
-and (orientation : landscape) { 
+
+@media screen and (orientation:landscape) {
     .site-header {
       display: none;
     }
-  }
-
-
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px)
-and (orientation : landscape) {
-  .site-header {
-      display: none;
-    }
 }
-
 
 
 
