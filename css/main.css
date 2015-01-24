@@ -613,8 +613,10 @@ and (max-device-width : 667px) and (orientation:landscape) {
       display: none;
     }
   }*/
-  
-@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation : landscape) { 
+
+
+
+@media only screen and (min-width : 321px) {
     .site-header {
       display: none;
     }
