@@ -608,15 +608,17 @@ and (max-device-width : 667px) and (orientation:landscape) {
     }
 }*/
 
-@media only screen 
-and (min-device-width : 375px) 
-and (max-device-width : 667px) 
-and (orientation : landscape) { 
+/*@media only screen and (min-device-width : 375px) and (max-device-width : 667px) and (orientation : landscape) { 
     .site-header {
       display: none;
     }
-  }
-
+  }*/
+  
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation : landscape) { 
+    .site-header {
+      display: none;
+    }
+}
 
 
 
