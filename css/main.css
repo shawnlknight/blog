@@ -616,9 +616,13 @@ and (max-device-width : 667px) and (orientation:landscape) {
 
 
 @media (max-width: 321px) and (orientation: landscape) { 
-.site-header {
+  .site-header {
       display: none;
     }
+
+  .jumbotron h1 {
+    padding-top: 30px;
+  }
 }
 
 
