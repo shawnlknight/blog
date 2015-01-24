@@ -601,19 +601,6 @@ a:hover {
     }
 }
 
-/*@media screen and (min-device-width : 375px) 
-and (max-device-width : 667px) and (orientation:landscape) {
-    .site-header {
-      display: none;
-    }
-}*/
-
-/*@media only screen and (min-device-width : 375px) and (max-device-width : 667px) and (orientation : landscape) { 
-    .site-header {
-      display: none;
-    }
-  }*/
-
 
 @media (max-width: 321px) and (orientation: landscape) { 
   .site-header {
@@ -621,7 +608,7 @@ and (max-device-width : 667px) and (orientation:landscape) {
     }
 
   .jumbotron h1 {
-    padding-top: 30px;
+    padding-top: 20px;
   }
 }
 
