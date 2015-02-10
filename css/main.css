@@ -510,13 +510,12 @@ a:hover {
     clear: both;
     margin-bottom: 10px;
     background: #F5F5F5;
-    text-align: center;
     font-size: 30px;
     height: 130px;
   }
 
   .triggerLink {
-    margin-top: 20px;
+    margin: 20px;
   }
 
   .triggerLink a {
