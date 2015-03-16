@@ -1,10 +1,11 @@
-
 ---
 layout: post
-title:  "Design for Accessibility"
-date:   2015-03-16 
+title:  "Accessibility"
+date:  2015-03-16
 categories: 
+comments: True
 ---
+
 
 
 It’s easy to find amazing websites these days with well thought out layouts, the latest animations, and responsive design. 
