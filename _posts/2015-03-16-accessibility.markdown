@@ -27,3 +27,9 @@ Here are just a few things to consider when designing your site for these users:
 - Become familiar with [WAI-ARIA][aria] 
 
 Also, check out [WebAIM][webAim] for a great accessibility checklist.
+
+I am by far no expert on this subject but I think we could all benefit from designing with these users in mind.
+
+[508]: http://www.section508.gov/section508-laws
+[aria]: http://www.w3.org/WAI/intro/aria.php
+[webAim]: http://webaim.org/standards/508/checklist
