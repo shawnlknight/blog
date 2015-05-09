@@ -471,10 +471,6 @@ a:hover {
     max-width: 600px;
   }
 
-  .site-header {
-    position: absolute;
-  }
-
   .site-nav {
     margin-top: 8px;
     z-index: 10;
