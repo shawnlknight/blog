@@ -472,7 +472,7 @@ a:hover {
   }
 
   .site-header {
-    position: relative;
+    position: absolute;
   }
 
   .site-nav {
