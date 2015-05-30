@@ -462,9 +462,6 @@ a:hover {
 }
 
 @media screen and (max-width: 600px) {
-  .overlay {
-    display: none;
-  }
   
   .wrap { padding: 0 12px; }
 
@@ -547,6 +544,10 @@ a:hover {
   .site-title,
   .site-title:visited {
     margin-right: 5px;
+  }
+
+  .overlay  {
+    max-height: 155px;
   }
   
   .jumbotron {
