@@ -63,6 +63,8 @@ a:hover {
 
 .site-header {
   max-height: 48px;
+  text-transform: uppercase;
+  font-weight: 600;
   background-color: #F5F5F5;
   position: fixed;
   width: 100%;
@@ -119,7 +121,7 @@ a:hover {
 .jumbotron {
   width: 100%;
   min-height: 550px;
-  background: url(http://blog.ctnews.com/meyers/files/2014/07/literarybrooklyn1.jpg);
+  background: url(/images/typewriter.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
