@@ -589,12 +589,15 @@ a:hover {
 }
 
 @media screen and (min-width:600px){
-    .trigger {
-        display: none;
-    }
-    .jumbotron {
-      background: url(/blog/images/typewriterMobile.jpg);
-    }
+  .trigger {
+      display: none;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .jumbotron {
+    background: url(/blog/images/typewriterMobile.jpg);
+  }
 }
 
 
