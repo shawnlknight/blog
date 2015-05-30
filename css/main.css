@@ -121,7 +121,7 @@ a:hover {
 .jumbotron {
   width: 100%;
   min-height: 550px;
-  background: url(images/typewriter.jpg);
+  background: url(/blog/images/typewriter.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -433,9 +433,9 @@ a:hover {
 
 
 @media screen and (max-width: 800px) {
-  .jumbotron {
-    background: #303030;
-  }
+/*  .jumbotron {
+    
+  }*/
 
 }
 
@@ -551,6 +551,7 @@ a:hover {
   
   .jumbotron {
     min-height: 200px;
+    background: url(/blog/images/typewriterMobile.jpg);
     background-size: contain;
   }
   
