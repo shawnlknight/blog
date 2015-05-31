@@ -68,7 +68,7 @@ a:hover {
   background-color: #F5F5F5;
   position: fixed;
   width: 100%;
-  border-bottom: 1px solid #cccccc;
+  box-shadow: 0 5px 10px 0 rgba(100,100,100,0.2);
   opacity: .97;
   z-index: 30;
 }
