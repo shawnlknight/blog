@@ -10,7 +10,7 @@ html, body { height: 100%; }
 
 body {
   font-family: "Open Sans", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
-  font-size: 18px;
+  font-size: 1.25em;
   line-height: 1.5;
   font-weight: 300;
   background-color: #F5F5F5;
@@ -432,16 +432,7 @@ a:hover {
 /* ----------------------------------------------------------*/
 
 
-
-@media screen and (max-width: 800px) {
-/*  .jumbotron {
-    
-  }*/
-
-}
-
 @media screen and (max-width: 750px) {
-
 
   .footer-col-1 { width: 50%; }
 
@@ -520,12 +511,6 @@ a:hover {
     display: none;
   }
 
-/*  .hide {
-    display: none;
-  }*/
-
-  /*.site-nav:hover .trigger { display: block; }*/
-
   .site-nav .page-link {
     display: block;
     text-align: left;
@@ -572,8 +557,8 @@ a:hover {
   .post-content ul,
   .post-content ol { padding-left: 10px; }
   .post-content { color: #313131; }
-  .post-content { font-size: 16px; }
-  .posts p { font-size: 16px; }
+  .post-content { font-size: 18px; }
+  .posts p { font-size: 18px; }
 
   .posts .post-link {
     font-size: 32px;

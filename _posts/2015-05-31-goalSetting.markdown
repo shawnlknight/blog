@@ -31,7 +31,7 @@ I look forward to reaching my goals, whether professional or personal, and knowi
 
 
 [sparc]: http://www.sparcedge.com/
-[temphoria]: http://www.teamphoria.com/
+[teamphoria]: http://www.teamphoria.com/
 [treehouse]: https://teamtreehouse.com/
 [angular]: https://angularjs.org/
 [giant]: http://conf.giantux.com/
