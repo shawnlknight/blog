@@ -25,9 +25,9 @@ I also have some personal goals related to fitness and health. My main goal is t
 
 It may sound crazy but one of the hardest things for me in my strength/size goal is the eating part of it. It’s hard to eat enough food to give my body what it needs to build more muscle. I was on a more paleo type of diet before and it’s great for getting ‘in shape’ but not so much when trying to gain muscle and size. So I’ve starting eating more carbs in the form of rice, quinoa, and oats.
 
-A bad habit of mine is staying up too late and not getting enough sleep. In order to fully recover from training I should be getting 8-9 hours of sleep. I wake up at around 5am, so that requires me to be in bed by 9pm. Sounds pretty early to most people but when I do get 8 hours of sleep I feel so much better the next day. 
+A bad habit of mine is staying up too late and not getting enough sleep. In order to fully recover from training I should be getting 8-9 hours of sleep. I wake up at around 5am, so that requires me to be in bed by 9pm. 9pm may be early to most people but when I make sure to get 8 hours of sleep I feel so much better the next day. 
 
-I didn't have a goal of doing a 5k race but I recently did the [i5k][race] here in Charleston. I was happy finishing in 27 minutes, considering I didn't train for it. 
+I didn't have a goal of doing a 5k race but I recently did the [i5k][race] here in Charleston. I was happy finishing in 27 minutes, considering I didn't train for it. Maybe I'll set a goal for another 5k and do some training to see if I can get a better time.
 
 I look forward to reaching my goals, whether professional or personal, and knowing that I have accountability through my work helps me stay focused on achieving them.
 
