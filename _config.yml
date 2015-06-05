@@ -15,6 +15,9 @@ paginate: 5
 # Build settings
 markdown: redcarpet
 permalink: pretty
+host: localhost
+
+highlighter: null
 
 defaults:
   -
