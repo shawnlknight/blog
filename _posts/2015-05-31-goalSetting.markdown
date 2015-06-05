@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goal Setting"
-date:  2015-05-31
+date:  2015-06-05
 categories: 
 comments: True
 ---
