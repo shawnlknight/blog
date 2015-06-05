@@ -533,7 +533,7 @@ a:hover {
   }
 
   .overlay  {
-    max-height: 156px;
+    max-height: 155.75px;
   }
   
   .jumbotron {
@@ -546,7 +546,7 @@ a:hover {
   
   .jumbotron h1 {
     font-size: 1.75em;
-    padding-top: 90px;    
+    padding-top: 100px;    
   }
 
   .post-header h1 { font-size: 36px; color: #313131; }
