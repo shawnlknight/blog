@@ -17,7 +17,7 @@ markdown: redcarpet
 permalink: pretty
 host: localhost
 
-highlighter: null
+highlighter: pygments
 
 defaults:
   -
