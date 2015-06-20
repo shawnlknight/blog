@@ -6,11 +6,13 @@ categories:
 comments: True
 ---
 
-Most of us remember having to restart our computers or video game consoles because they were working slow or just stopped all together. It was like magic. You hit reset and all of a sudden everything is back to normal. Usually.
+Most of us remember having to restart our computers or video game consoles because they were working slow or just stopped all together.
+
+It was like magic. You hit reset and all of a sudden everything was back to normal. *Usually*...
 
 Sometimes we get bogged down and sluggish too. Sometimes we need a restart.
 
-It's a little more complicated restarting our system than it is a computers. Well, it takes more effort on our parts at least.
+It's a little more complicated restarting our system than it is a computer's. It at least takes more effort on our parts.
 
 Getting into a relaxed state is a good place to start. We need to remove ourselves from the problems of the day.
 
@@ -22,4 +24,4 @@ It's a cleansing ritual for me. I sleep better at night. I wake up refreshed and
 
 The important thing is to find what works for you.
 
-Find a way to restart your system.
+Find a way to restart *your* system.
