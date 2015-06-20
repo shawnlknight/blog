@@ -20,17 +20,17 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a { 
-  color: rgb(116, 9, 0); 
-  text-decoration: none; 
+a {
+  color: rgb(116, 9, 0);
+  text-decoration: none;
   -webkit-transition: all .5s ease;
   -moz-transition: all .5s ease;
   -o-transition: all .5s ease;
   transition: all .5s ease;
 }
 
-a:hover { 
-  color: #000; 
+a:hover {
+  color: #000;
   -webkit-transition: all .5s ease;
   -moz-transition: all .5s ease;
   -o-transition: all .5s ease;
@@ -52,7 +52,7 @@ a:hover {
 
 .myPic {
   margin-top: 30px;
-    border-radius: 100%;
+  border-radius: 100%;
 }
 
 
@@ -231,7 +231,7 @@ a:hover {
 /* Home styles */
 /* ----------------------------------------------------------*/
 
-.home h1 { 
+.home h1 {
   margin-bottom: 25px;
   z-index: 20;
   position: relative;
@@ -453,7 +453,7 @@ a:hover {
 }
 
 @media screen and (max-width: 600px) {
-  
+
   .wrap { padding: 0 12px; }
 
   img {
@@ -481,9 +481,9 @@ a:hover {
     margin-left: 10px;
   }
 
-  .site-nav .menu-icon svg { 
-    width: 40px; 
-    height: 20px; 
+  .site-nav .menu-icon svg {
+    width: 40px;
+    height: 20px;
   }
 
   .trigger {
@@ -520,12 +520,12 @@ a:hover {
     margin-bottom: 10px;
     font-weight: bold;
   }
-  
+
   .site-title
   .site-title:hover {
     font-size: 22px;
   }
-  
+
   .site-title,
   .site-title:visited {
     margin-right: 5px;
@@ -534,7 +534,7 @@ a:hover {
   .overlay  {
     max-height: 156px;
   }
-  
+
   .jumbotron {
     min-height: 200px;
     background: url(/blog/images/typewriterTablet.jpg);
@@ -542,10 +542,10 @@ a:hover {
     background-repeat: no-repeat;
     background-size: cover;
   }
-  
+
   .jumbotron h1 {
     font-size: 1.75em;
-    padding-top: 100px;    
+    padding-top: 100px;
   }
 
   .post-header h1 { font-size: 36px; color: #313131; }
@@ -582,7 +582,7 @@ a:hover {
 }
 
 
-@media (max-width: 321px) and (orientation: landscape) { 
+@media (max-width: 321px) and (orientation: landscape) {
   .site-header {
       display: none;
     }
@@ -591,18 +591,3 @@ a:hover {
     padding-top: 55px;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
