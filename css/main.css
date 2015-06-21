@@ -590,6 +590,7 @@ a:hover {
 @media (max-width: 321px) and (orientation: landscape) {
   body {
     font-size: 1em;
+    font-size: 0.75em;
   }
 
   .site-nav {
@@ -601,7 +602,7 @@ a:hover {
   }
 
   .site-nav .menu-icon svg {
-    width: 20px;
+    width: 15px;
   }
 
   .jumbotron h1 {
