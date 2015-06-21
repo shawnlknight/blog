@@ -460,6 +460,10 @@ a:hover {
     max-width: 600px;
   }
 
+  .site-header {
+    position: absolute;
+  }
+
   .site-nav {
     margin-top: 8px;
     z-index: 10;
@@ -583,11 +587,12 @@ a:hover {
 
 
 @media (max-width: 321px) and (orientation: landscape) {
-  .site-header {
-      display: none;
-    }
+  body {
+    font-size: 0.8em;
+  }
 
   .jumbotron h1 {
-    padding-top: 55px;
+    padding-top: 65px;
   }
+
 }
