@@ -462,6 +462,7 @@ a:hover {
 
   .site-header {
     position: absolute;
+    opacity: 1;
   }
 
   .site-nav {
@@ -589,10 +590,6 @@ a:hover {
 @media (max-width: 321px) and (orientation: landscape) {
   body {
     font-size: 1em;
-  }
-
-  .site-header {
-    opacity: 1;
   }
 
   .site-nav {
