@@ -600,6 +600,10 @@ a:hover {
     line-height: 20px;
   }
 
+  .site-nav .menu-icon svg {
+    width: 20px;
+  }
+
   .jumbotron h1 {
     padding-top: 60px;
   }
