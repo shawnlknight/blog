@@ -588,11 +588,23 @@ a:hover {
 
 @media (max-width: 321px) and (orientation: landscape) {
   body {
-    font-size: 0.8em;
+    font-size: 1em;
+  }
+
+  .site-header {
+    opacity: 1;
+  }
+
+  .site-nav {
+    margin-top: 5px;
+  }
+
+  .site-nav .menu-icon {
+    line-height: 20px;
   }
 
   .jumbotron h1 {
-    padding-top: 65px;
+    padding-top: 60px;
   }
 
 }
