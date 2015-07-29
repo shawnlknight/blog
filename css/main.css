@@ -562,6 +562,9 @@ a:hover {
   .post-content ol { padding-left: 10px; }
   .post-content { color: #313131; }
   .post-content { font-size: 18px; }
+  .post-content {
+    font-family: 'Slabo', serif;
+  }
   .posts p { font-size: 18px; }
 
   .posts .post-link {
