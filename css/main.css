@@ -565,7 +565,10 @@ a:hover {
   .post-content p {
     font-family: 'Slabo 27px', serif;
   }
-  .posts p { font-size: 18px; }
+  .posts p {
+    font-size: 18px;
+    font-family: 'Slabo 27px', serif;
+  }
 
   .posts .post-link {
     font-size: 32px;
