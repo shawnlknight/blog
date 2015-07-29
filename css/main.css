@@ -320,7 +320,8 @@ a:hover {
 .post-content a { font-weight: 600; }
 .post-content a:hover { border-bottom: 2px solid rgb(116, 9, 0); }
 
-.post-content p {
+.post-content p,
+.post-excerpt {
   font-family: 'Lora', serif;
 }
 
