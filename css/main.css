@@ -320,6 +320,10 @@ a:hover {
 .post-content a { font-weight: 600; }
 .post-content a:hover { border-bottom: 2px solid rgb(116, 9, 0); }
 
+.post-content p {
+  font-family: 'Slabo 27px', serif;
+}
+
 .post pre,
 .post code {
   border: 1px solid #A7A7A7;
@@ -562,13 +566,7 @@ a:hover {
   .post-content ol { padding-left: 10px; }
   .post-content { color: #313131; }
   .post-content { font-size: 18px; }
-  .post-content p {
-    font-family: 'Slabo 27px', serif;
-  }
-  .posts p {
-    font-size: 18px;
-    font-family: 'Slabo 27px', serif;
-  }
+  .posts p { font-size: 18px; }
 
   .posts .post-link {
     font-size: 32px;
