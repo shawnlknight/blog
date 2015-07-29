@@ -252,6 +252,10 @@ a:hover {
   color: #818181;
 }
 
+.posts p {
+  font-family: 'Lora', serif;
+}
+
 .post-excerpt {
   margin-top: 10px;
 }
@@ -321,9 +325,7 @@ a:hover {
 .post-content a:hover { border-bottom: 2px solid rgb(116, 9, 0); }
 
 .post-content p,
-.post-excerpt {
-  font-family: 'Lora', serif;
-}
+
 
 .post pre,
 .post code {
