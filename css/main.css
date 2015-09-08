@@ -326,7 +326,10 @@ a:hover {
 }
 
 .post-content ul,
-.post-content ol { padding-left: 20px; }
+.post-content ol { 
+  padding-left: 20px; 
+  font-family: 'Merriweather', serif;
+}
 
 .post-content a { font-weight: 600; }
 .post-content a:hover { border-bottom: 2px solid rgb(116, 9, 0); }
