@@ -307,6 +307,10 @@ a:hover {
   letter-spacing: -1px;
 }
 
+.post-content p {
+  font-family: 'Merriweather', serif;
+}
+
 .post-content blockquote {
   border-left: 4px solid #8E8E8E;
   padding-left: 20px;
