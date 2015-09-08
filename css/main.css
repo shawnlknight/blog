@@ -259,6 +259,10 @@ a:hover {
   margin-top: 10px;
 }
 
+.posts p {
+  font-family: "Merriweather", serif;
+}
+
 
 /* Post styles */
 /* ----------------------------------------------------------*/
@@ -266,7 +270,7 @@ a:hover {
 .post-header { margin: 50px 0 30px; }
 
 .post-header h1 {
-  font-size: 42px;
+  font-size: 48px;
   line-height: 1;
   font-weight: 300;
 }
@@ -288,7 +292,7 @@ a:hover {
 .post-content h5,
 .post-content h6 {
   line-height: 1;
-  font-weight: 300;
+  font-weight: 400;
   margin: 40px 0 20px;
 }
 
