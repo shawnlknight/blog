@@ -13,7 +13,7 @@ paginate: 5
 
 
 # Build settings
-markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, strikethrough: true)
+markdown: redcarpet
 permalink: pretty
 host: localhost
 
