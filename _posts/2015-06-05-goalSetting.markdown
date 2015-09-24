@@ -6,7 +6,9 @@ categories:
 comments: True
 ---
 
-Last year was a crazy year of change and challenges. I learned so much so fast that it was nice getting more into a rhythm this year. You have to be careful with rhythm because you can become complacent and lose the drive to further yourself. The act of setting goals helps to realign yourself so that you don't fall into the pit of being too comfortable.
+Last year was a crazy year of change and challenges. I learned so much so fast that it was nice getting more into a rhythm this year. 
+
+You have to be careful with rhythm because you can become complacent and lose the drive to further yourself. The act of setting goals helps to realign yourself so that you don't fall into the pit of being too comfortable.
 
 We were recently tasked at work to set some goals we would like to achieve in the near future. Goal setting at some of my previous jobs was more of a hassle than anything else and the higher ups really didn’t care too much if you achieved those goals. However, at [Sparc][sparc], they really do want to see you grow as an employee and an individual. Plus, we used an awesome application called [Teamphoria][teamphoria] (built at Sparc) to set our goals. It was actually kind of fun doing it.  
 

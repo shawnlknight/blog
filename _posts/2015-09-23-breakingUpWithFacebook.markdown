@@ -12,7 +12,7 @@ I disabled my account actually. I was too paranoid that Facebook was collecting 
 
 Okay, that's not really the the reason (even though they do that). The real reason is I needed a break from it all.
 
-You see, I can be an asshole ~~sometimes~~ and am a professional at starting firestorms on Facebook.
+You see, I can be jerk ~~sometimes~~ and am a professional at starting firestorms on Facebook.
 
 Facebook ***should*** be used to share photos and keep up with friends but there are a lot of us who use it to share our thoughts/rants on stuff like politics and religion. The old saying of how one should never discuss politics or religion at the dinner table rings true for the internet. 
 
@@ -24,6 +24,6 @@ Just kidding.
 
 So don’t worry, I didn’t unfriend you. I unfriended Facebook.
 
-It actually felt really good. It was like a weight had been lifted off of me. I was spending way too much time on there anyways.
+It actually felt really good. It was like a weight had been lifted off of me. I was spending way too much time on there anyway.
 
 Now I just have to be careful not to make the same mistake with Twitter...
