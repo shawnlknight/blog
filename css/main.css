@@ -122,14 +122,14 @@ a:hover {
 }
 
 .jumbotron {
-  width: 100%;
+/*  width: 100%;
   min-height: 550px;
   background: url(/blog/images/typewriter.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  text-align: center;
+  text-align: center;*/
 }
 
 .jumbotron h1 {
