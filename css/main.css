@@ -130,6 +130,7 @@ a:hover {
   background-size: cover;
   background-attachment: fixed;
   text-align: center;*/
+  height: 100px;
 }
 
 .jumbotron h1 {
