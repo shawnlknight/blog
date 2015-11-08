@@ -555,11 +555,12 @@ a:hover {
   }
 
   .jumbotron {
-    min-height: 200px;
-    background: url(/blog/images/typewriterTablet.jpg);
+    /*min-height: 200px;*/
+/*    background: url(/blog/images/typewriterTablet.jpg);
     background-size: contain;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;*/
+    height: 50px;
   }
 
   .jumbotron h1 {
