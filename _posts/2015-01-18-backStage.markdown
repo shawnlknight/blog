@@ -16,7 +16,7 @@ In his *The Presentation of Self in Everyday Life*, sociologist Erving Goffman c
 This “true self” is only allowed to come out in the backstage. This is where we are free to express our deepest darkest feelings and thoughts. You may allow parts of your true self to be seen by a select few but the only time we ever show 100% is when we are alone.
 
 
-###Multiple Roles
+### Multiple Roles
 You probably have multiples roles you play throughout the day:
 
 - Spouse/significant other
@@ -30,7 +30,7 @@ You probably wouldn't want to spill your life problems to the clerk at the gas s
 
 I also think it's healthy to open up at work to people you consider good comrades. If you are going to sit next to someone for 8 hours a day, why wouldn't you want to share some of your life with them and vice versa? This could help your work atmosphere by investing in people rather than just your tasks.
 
-###Robots
+### Robots
 But we are so guarded. We are afraid of what people will think of us. We hide behind surface level conversations. Think about your typical interactions and how they usually play out,
 
 > Coworker: Hey how are you?
