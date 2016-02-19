@@ -19,7 +19,7 @@ redcarpet:
 permalink: pretty
 host: localhost
 
-highlighter: pygments
+highlighter: rouge
 
 defaults:
   -
