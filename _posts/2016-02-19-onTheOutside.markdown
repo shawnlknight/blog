@@ -2,6 +2,8 @@
 layout: post
 title:  "On The Outside"
 date:   2016-02-19 
+categories:
+comments: True
 ---
 
 I’m on the outside looking in.
