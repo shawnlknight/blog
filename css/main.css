@@ -21,6 +21,11 @@ body {
   color: #fff;
 }
 
+::-moz-selection {
+  background: #101010; /* Gecko Browsers */
+  color: #fff;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
   font-weight: 400;
