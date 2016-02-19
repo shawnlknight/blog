@@ -314,6 +314,7 @@ a:hover {
 
 .post-content p {
   font-family: 'Merriweather', serif;
+  letter-spacing: 1px;
 }
 
 .post-content blockquote {
