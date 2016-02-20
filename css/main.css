@@ -349,6 +349,7 @@ a:hover {
 .post-content a:hover {
   background: #D5393A;
   color: #fff;
+  text-decoration: none;
 }
 
 .post pre,
