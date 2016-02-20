@@ -13,7 +13,7 @@ body {
   font-size: 1.25em;
   line-height: 1.6;
   font-weight: 300;
-  background-color: #F5F5F5;
+  background-color: #FEFEFE;
 }
 
 ::selection {
@@ -76,7 +76,7 @@ a:hover {
   max-height: 48px;
   text-transform: uppercase;
   font-weight: 600;
-  background-color: #F5F5F5;
+  background-color: #FEFEFE;
   position: fixed;
   width: 100%;
   box-shadow: 0 5px 10px 0 rgba(100,100,100,0.2);
@@ -233,6 +233,7 @@ a:hover {
 .page-content {
   padding: 30px 0;
   /*background-color: #f3f3f3;*/
+  background-color: #FEFEFE;
 }
 
 .me {
@@ -499,7 +500,7 @@ a:hover {
     margin-top: 8px;
     z-index: 10;
     top: 14px; right: 8px;
-    background-color: #F5F5F5;
+    background-color: #FEFEFE;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     width: 100px;
@@ -524,7 +525,7 @@ a:hover {
   .trigger {
     clear: both;
     margin-bottom: 10px;
-    background: #F5F5F5;
+    background: #FEFEFE;
     font-size: 30px;
     height: 130px;
   }
