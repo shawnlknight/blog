@@ -342,8 +342,9 @@ a:hover {
 }
 
 .post-content a {
-  font-weight: 600;
+  font-weight: 300;
   text-decoration: underline;
+
 }
 .post-content a:hover {
   border-bottom: 2px solid #D5393A;
