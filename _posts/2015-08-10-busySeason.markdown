@@ -8,17 +8,17 @@ comments: True
 
 I haven’t posted to my blog in a while and one reason is that life has been fairly busy.
 
-On a given day, I might say I am busy, because I, like many others, default to that answer. It makes us sound more important than we really are doesn't it? I am trying not to say that as much because it bothers me. Same with how we all say we are *good* even when life is shitty.
+On a given day, I might say I am busy, because I, like many others, default to that answer. It makes us sound more important than we really are doesn't it? I am trying not to say that as much because it bothers me. Same with how we all say we are *good* even when life isn't going very well.
 
 However, I’m serious this time about being busy.
 
-You see, my wife just had our second daughter on July 14th and our world has been flipped upside down. You might say, “Don’t you have another daughter? Aren’t you used to all of that?” Well kind of.
+You see, my wife just had our second daughter on July 14th and our world has been flipped upside down. You might say, “Don’t you have another daughter? Aren’t you used to all of that?” Well, sort of.
 
 Our first daughter, if you don’t already know, was adopted. Which, was actually just finalized June 24th of this year. Thank God for that! We’ve only been waiting about 3 years.
 
 Some people didn’t realize our first daughter wasn’t a baby when she first came to us. She was already 14 months and sleeping through the night. So this whole hungry baby who doesn’t sleep at night thing is new to my wife and I.
 
-I can’t really complain though. I get to sleep in another room to have the energy to go to work the next day and take care of our eldest daughter. My wife is the one waking up every two and a half hours to feed the screaming baby. 
+I can’t really complain though. I get to sleep in another room to have the energy to go to work the next day and take care of our eldest daughter. My wife is the one waking up every two and a half hours to feed the screaming baby.
 
 I’ve heard it’s not that easy to add a second kid into the mix but not knowing what sleep deprivation is like and you are in a whole new league of scary!
 
