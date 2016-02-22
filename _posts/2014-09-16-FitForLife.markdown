@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "Fit For Life"
-date:   2014-09-16 
+date:   2014-09-16
 categories: "fitness"
 ---
 
-If you’ve been following me on [Twitter](https://twitter.com/ShawnLknight), you’ve probably seen me post about CrossFit (a lot). I even built a [CrossFit](https://shawn-final.firebaseapp.com/#/) app for my final project at [The Iron Yard](http://theironyard.com/). 
+If you’ve been following me on [Twitter](https://twitter.com/shawns_beard), you’ve probably seen me post about CrossFit (a lot). I even built a [CrossFit](https://shawn-final.firebaseapp.com/#/) app for my final project at [The Iron Yard](http://theironyard.com/). 
 
-A common complaint about people who CrossFit is how much they talk about it. Yes, sometimes we get carried away and I know that you probably don’t care what my Fran time is. However, you cannot deny the positive impact CrossFit or things like the Spartan Race have on our culture. You also cannot deny the health problems in this country that stem from unhealthy eating and living sedentary lives. So why do people get so upset when someone is excited about changing their lives for the better through exercise and healthy eating? 
+A common complaint about people who CrossFit is how much they talk about it. Yes, sometimes we get carried away and I know that you probably don’t care what my Fran time is. However, you cannot deny the positive impact CrossFit or things like the Spartan Race have on our culture. You also cannot deny the health problems in this country that stem from unhealthy eating and living sedentary lives. So why do people get so upset when someone is excited about changing their lives for the better through exercise and healthy eating?
 
 ### Convenience
 
-Our culture looks for convenience in everything we do. We look for the easy way out. We choose the elevator instead of the stairs. We choose the drive-thru instead of planning out our meals. 
+Our culture looks for convenience in everything we do. We look for the easy way out. We choose the elevator instead of the stairs. We choose the drive-thru instead of planning out our meals.
 
 Keeping up with an exercise regiment isn't a piece of cake. After a long day at work, it’s hard to be motivated to jog or go to the gym. I love CrossFit but I don’t always feel like doing a metcon in Charleston’s hot humid summers but I know what the alternative outcome can be.
 
