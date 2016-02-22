@@ -617,8 +617,8 @@ a:hover {
 }
 
 @media screen and (min-width:600px){
-  .trigger, .triggerLink {
-    display: none;
+  .trigger {
+      display: none;
   }
 }
 
