@@ -29,6 +29,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
   font-weight: 400;
+  font-family: "Oswald", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -88,7 +89,7 @@ a:hover {
 .site-title:visited {
   display: block;
   color: #a96426;
-  font-family: "Signika Negative", Helvetica, Arial, sans-serif;
+  font-family: "Oswald", Helvetica, Arial, sans-serif;
   font-size: 26px;
   font-weight: bold;
   letter-spacing: -.5px;
@@ -115,9 +116,9 @@ a:hover {
   margin-left: 20px;
   margin-right: 20px;
   color: rgb(71, 71, 71);
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
   font-size: 20px;
-  font-family: "Open Sans", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
+  font-family: "Oswald", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
 }
 
 .site-nav .page-link:hover {
