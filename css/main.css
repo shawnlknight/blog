@@ -16,7 +16,6 @@ body {
   background-color: #FEFEFE;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-rendering: optimizeLegibility;
 }
 
 ::selection {
