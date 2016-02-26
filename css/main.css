@@ -307,21 +307,22 @@ a:hover {
   line-height: 1;
   font-weight: 400;
   margin: 40px 0 20px;
+  text-transform: uppercase;
 }
 
 .post-content h2 {
   font-size: 32px;
-  letter-spacing: -1.25px;
+  /*letter-spacing: -1.25px;*/
 }
 
 .post-content h3 {
   font-size: 26px;
-  letter-spacing: -1px;
+  /*letter-spacing: -1px;*/
 }
 
 .post-content h4 {
   font-size: 20px;
-  letter-spacing: -1px;
+  /*letter-spacing: -1px;*/
 }
 
 .post-content p {
