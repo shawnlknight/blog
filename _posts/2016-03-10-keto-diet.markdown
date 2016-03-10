@@ -1,11 +1,12 @@
 ---
 published: true
 layout: post
-date: 2016-03-10T00:00:00.000Z
+date: {}
 comments: true
 ---
 
-I’ve been trying out the [keto](http://www.ruled.me/guide-keto-diet/) diet for about week now. If you aren’t familiar ketosis, according to [Wikipedia](https://en.wikipedia.org/wiki/Ketosis), it "is a metabolic state in which most of the body's energy supply comes from ketone bodies in the blood, in contrast to a state of glycolysis in which blood glucose provides most of the energy.”
+
+I’ve been trying out the [keto](http://www.ruled.me/guide-keto-diet/) diet for about week now. If you aren’t familiar with ketosis, according to [Wikipedia](https://en.wikipedia.org/wiki/Ketosis), it "is a metabolic state in which most of the body's energy supply comes from ketone bodies in the blood, in contrast to a state of glycolysis in which blood glucose provides most of the energy.”
 
 Basically, you keep your carb/sugar intake to lower than 50g a day and your body will start to produce ketones to burn for energy instead of the glucose that is produced from carbs/sugar. The ketones come from your fat stores.
 
