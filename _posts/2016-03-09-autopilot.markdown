@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Autopilot
-date: {}
+date: 2016-03-09T00:00:00.000Z
 categories: null
 comments: true
 published: true
 ---
+
 
 Do you ever feel like you are drifting through your life on autopilot?
 
