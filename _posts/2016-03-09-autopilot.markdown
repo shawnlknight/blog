@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Autopilot"
-date:   2016-03-09 
-categories:
-comments: True
+title: Autopilot
+date: {}
+categories: null
+comments: true
+published: true
 ---
-Do you ever feel like you are drifting through life on autopilot?
+
+Do you ever feel like you are drifting through your life on autopilot?
 
 I feel like this sometimes during the work week. It’s as if I have tunnel vision to everything I’m not actively involved in.
 
