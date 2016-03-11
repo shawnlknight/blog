@@ -12,7 +12,7 @@ Let me give you an example. If you ever talk about your PR (personal record) on 
 
 This is just annoying and yes, maybe you shouldn't talk about what you do for exercising like CrossFitters do (guilty as charged!). However, if it does come up in a conversation, why do people feel the need to one-up you and say how much they **used to** lift or run? How is it even relavant if you cannot currently do that? 
 
-## Glory Days
+### Living in the past
 Don't live in your past glory. Nobody cares that you *were* the star football player in high school or that you benched 300lbs in college. What are you doing at this moment? What are you doing to improve yourself now?
 
 That's what you should care about.
