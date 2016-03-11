@@ -7,7 +7,7 @@ comments: true
 
 
 
-Why do people love to talk about the glory days of how they used to be able to do x,y, or z?
+Why do people love to talk about the glory days of how they used to be able to do x, y, or z?
 
 Let me give you an example. If you ever talk about your PR (personal record) on a lift or how you cut down your 5k time, you will inevitably get someone who will let you how they used to lift so much weight or how they used to run a 5k everyday. 
 
