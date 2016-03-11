@@ -1,17 +1,20 @@
 ---
 published: true
 layout: post
-date: 2016-03-12T00:00:00.000Z
+date: {}
 comments: true
 ---
 
+
 ### Here is a random list of things I do not like
-- Spring (because of the *evil* pollen)
-- Game invites on Facebook
-- Soda (La Croix is not soda!)
+- Spring (i.e., *evil* pollen)
+- Game invites on Facebook (Seriously who in the hell does this?)
+- Soda (I can think of better ways to slowly kill myself)
 - Talking about sports
+- When someone calls me "brother" when, in fact, I'm not their brother
 - Political signs all over the damn place
-- Staying up past 10pm (More like 9pm. I'm an old soul.)
-- Reply all emails (Seriously, **STOP** doing this!)
-- 
+- Staying up past 10pm (Ok, more like 9pm)
+- Reply all emails (**STOP** doing this!)
+- Most things labeled as "Christian" (music, art, people, etc...)
+- The phrase, "Doing life together" (Can't we just say "hanging out"?)
 
