@@ -7,7 +7,7 @@ layout: post
 
 
 
-Something I just do not get is when people, especially "leaders", do not take responsibility.
+Something I just do not get is when people, especially "leaders", do not take responsibility for their actions.
 
 These are the people who will always play the blame game and throw others under the bus any chance they get.
 
