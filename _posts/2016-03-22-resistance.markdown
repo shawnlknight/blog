@@ -4,11 +4,11 @@ layout: post
 date: 2016-03-22T00:00:00.000Z
 ---
 
-If you haven't read *The War of Art* by Steven Pressfield, then stop right now and go do that! 
+If you haven't read *The War of Art* by Steven Pressfield, then stop right now and go do that!
 
 You won't regret it.
 
-If you have read it, then you'll know what **The Resistance** is. 
+If you have read it, then you'll know what **The Resistance** is.
 
 I battle with it consistently. It often wins. It's a beast that seeks to destroy me.
 
@@ -20,9 +20,11 @@ It also loves when I'm comfortable. Staying comfortable will bring death. Mental
 
 Who wants that?  
 
-We could *say* that we don't that but do our actions back that up? Are we cutting out the waste in our lives? Are we burdened with busyness? 
+### Busyness Trap
 
-Resistance wants us to feel busy without accomplishing anything of worth. It allows us to create **garbage**. Not art. 
+We could *say* that we don't that but do our actions back that up? Are we cutting out the waste in our lives? Are we burdened with busyness?
+
+Resistance wants us to feel busy without accomplishing anything of worth. It allows us to create **garbage**. Not art.
 
 It loves for us to run around in circles.
 
